@@ -223,4 +223,4 @@ def setup(bot):
     
     
     
- bot.run('BOT_TOKEN')
+ bot.run(BOT_TOKEN)
