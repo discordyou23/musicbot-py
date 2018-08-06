@@ -219,8 +219,4 @@ class Music:
         
 def setup(bot):
     bot.add_cog(Music(bot))
-    print('풍악을 울려라!')
-    
-    
-    
- bot.run(BOT_TOKEN)
+    print('풍악을 울려라!'
