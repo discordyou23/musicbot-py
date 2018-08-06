@@ -21,4 +21,4 @@ async def yt(ctx, url):
   player = await vc.create_ytdl_player(url)
   player.start()
     
-bot.run('MzE3MDkyNzg4Mzc2NDM2NzM2.DbuGZw.GUJSPrTXzfdPrj-cQYT689DL2Rs')
+bot.run('bot_token')
